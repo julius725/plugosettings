@@ -1,0 +1,2 @@
+# plugosettings
+plugo setingssai
